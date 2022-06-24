@@ -1,0 +1,16 @@
+﻿obj\Debug\net6.0-android\resizetizer\r\drawable\icon.png
+obj\Debug\net6.0-android\resizetizer\r\drawable-hdpi\appicon.png
+obj\Debug\net6.0-android\resizetizer\r\drawable-hdpi\appiconfg.png
+obj\Debug\net6.0-android\resizetizer\r\drawable-hdpi\dotnet_bot.png
+obj\Debug\net6.0-android\resizetizer\r\drawable-mdpi\appicon.png
+obj\Debug\net6.0-android\resizetizer\r\drawable-mdpi\appiconfg.png
+obj\Debug\net6.0-android\resizetizer\r\drawable-mdpi\dotnet_bot.png
+obj\Debug\net6.0-android\resizetizer\r\drawable-xhdpi\appicon.png
+obj\Debug\net6.0-android\resizetizer\r\drawable-xhdpi\appiconfg.png
+obj\Debug\net6.0-android\resizetizer\r\drawable-xhdpi\dotnet_bot.png
+obj\Debug\net6.0-android\resizetizer\r\drawable-xxhdpi\appicon.png
+obj\Debug\net6.0-android\resizetizer\r\drawable-xxhdpi\appiconfg.png
+obj\Debug\net6.0-android\resizetizer\r\drawable-xxhdpi\dotnet_bot.png
+obj\Debug\net6.0-android\resizetizer\r\drawable-xxxhdpi\appicon.png
+obj\Debug\net6.0-android\resizetizer\r\drawable-xxxhdpi\appiconfg.png
+obj\Debug\net6.0-android\resizetizer\r\drawable-xxxhdpi\dotnet_bot.png
